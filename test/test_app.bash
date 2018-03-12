@@ -1,3 +1,3 @@
 ### application.bat - 201x - votre nom ###
-version = "1.2"
+version = "2.0"
 build_hour = "11H00"
